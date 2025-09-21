@@ -1,0 +1,11 @@
+{
+  "namespace": "Ryocery",
+  "name": "IronDeficiency",
+  "description": "Makes it so you trip or faint randomly (even while climbing). Configurable.",
+  "version_number": "0.1.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ],
+  "website_url": "",
+  "FullName": "Ryocery-IronDeficiency"
+}
